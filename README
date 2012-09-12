@@ -1,0 +1,3 @@
+1)short hand php tags must be on
+2)to test use multiple browser with multiple account
+3)import the t20.sql db and edit the config.php the add mysql permission
